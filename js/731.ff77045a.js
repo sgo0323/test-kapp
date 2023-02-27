@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkkrt_service"]=self["webpackChunkkrt_service"]||[]).push([[731],{95731:(e,s,k)=>{k.r(s)}}]);
